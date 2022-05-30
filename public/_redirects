@@ -1,9 +1,1 @@
-# Redirects from what the browser requests to what we serve
-/                   https://capable-faun-56b633.netlify.app/general
-/general             https://capable-faun-56b633.netlify.app/general
-/business            https://capable-faun-56b633.netlify.app/business
-/entertainment           https://capable-faun-56b633.netlify.app/entertainment
-/health          https://capable-faun-56b633.netlify.app/health
-/science             https://capable-faun-56b633.netlify.app/science 
-/sports          https://capable-faun-56b633.netlify.app/sports    
-/technology          https://capable-faun-56b633.netlify.app/technology
+/* /index.html 200
